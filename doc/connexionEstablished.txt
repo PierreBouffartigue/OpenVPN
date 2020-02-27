@@ -1,8 +1,0 @@
-Tue Jun 25 18:25:57 2019 Route addition via IPAPI succeeded [adaptive]
-Tue Jun 25 18:25:57 2019 MANAGEMENT: >STATE:1561479957,ADD_ROUTES,,,,,,
-Tue Jun 25 18:25:57 2019 C:\WINDOWS\system32\route.exe ADD 10.8.0.1 MASK 255.255.255.255 10.8.0.5
-Tue Jun 25 18:25:57 2019 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=25 and dwForwardType=4
-Tue Jun 25 18:25:57 2019 Route addition via IPAPI succeeded [adaptive]
-Tue Jun 25 18:25:57 2019 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
-Tue Jun 25 18:25:57 2019 Initialization Sequence Completed
-Tue Jun 25 18:25:57 2019 MANAGEMENT: >STATE:1561479957,CONNECTED,SUCCESS,10.8.0.6,192.168.34.4,1194,,

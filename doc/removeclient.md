@@ -44,7 +44,3 @@ Sauvegardez et fermez le fichier de configuration.
 
 Pour finir, relancez OpenVpn pour prendre en compte vos modifications :
 `$ sudo systemctl restart openvpn@server`
-
-**  Félicitations vous venez de supprimer un client **
-
-

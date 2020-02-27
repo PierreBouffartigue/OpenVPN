@@ -2,7 +2,7 @@
 
 ## Auteurs
 **Bordeaux Ynov Campus Informatique *B2 B Groupe 19***
-* Jeremy **TROUVAT**
+* Jérémy **TROUVAT**
 * Pierre **BOUFFARTIGUE**
 * Gabin **DEPAIRE**
 

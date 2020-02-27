@@ -89,9 +89,9 @@ fi
 # email.)
 
 set_var EASYRSA_REQ_COUNTRY	"FR"
-set_var EASYRSA_REQ_PROVINCE	"GIRONDE"
+set_var EASYRSA_REQ_PROVINCE	"Gironde"
 set_var EASYRSA_REQ_CITY	"Bordeaux"
-set_var EASYRSA_REQ_ORG	"InfraYnov"
+set_var EASYRSA_REQ_ORG		"EpickaVPN"
 set_var EASYRSA_REQ_EMAIL	"admin@example.com"
 set_var EASYRSA_REQ_OU		"Community"
 

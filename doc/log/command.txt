@@ -1,1 +1,0 @@
-$ grep VPN /var/log/syslog

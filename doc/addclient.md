@@ -53,5 +53,3 @@ Enfin, copiez les fichiers `ca.crt` et `ta.key` dans le répertoire `/client-con
 $ cp ~/EasyRSA-3.0.4/ta.key ~/client-configs/keys/
 $ sudo cp /etc/openvpn/ca.crt ~/client-configs/keys/
 ```
-
-**Félicitation vous venez d'ajouter'un nouveau client ! **
