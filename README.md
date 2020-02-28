@@ -13,7 +13,7 @@
 <em>Technologies utilisées : OpenVPN, VPS sous Ubuntu Server 18.04<br>
 Client : Support Windows 10 & (Android)[WIP]</em>
 
-✅   [Installation GOGS](https://github.com/PierreBouffartigue/OpenVPN/blob/master/doc/installGogs.md)<br><br>
+✅   [Installation GOGS](https://github.com/PierreBouffartigue/OpenVPN/blob/master/doc/installGogs.md)<br>
 ✅   Accès distant<br>
 ✅   [Gestion Firewall](https://github.com/PierreBouffartigue/OpenVPN/blob/master/doc/firewall.md)<br><br>
     Sécurité<br>
