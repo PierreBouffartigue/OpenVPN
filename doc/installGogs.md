@@ -1,6 +1,6 @@
 # Installation du serveur Go Git Server   
 
-##Prérequis
+## Prérequis
 
 **Windows 10 :**
 - Assurez vous de posséder Wind
